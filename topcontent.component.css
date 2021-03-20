@@ -1,0 +1,17 @@
+.top{
+    margin: 25px 21.5%;
+    color: white;
+}
+.try{
+    color: red;
+    background-color: white;
+    margin-right: 15px;
+    padding: 5px 8px;
+    border-radius: 5px;
+}
+.sign{
+    color: white;
+    background-color: red;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
